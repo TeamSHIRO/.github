@@ -7,7 +7,7 @@ The SHIRO Project is an open source operating system aiming to be a modern, secu
 The SHIRO Project contains
 * SHIRO Kernel
 * KURO Bootloader
-* Userspace Applications and C standard library
+* Userspace Applications, and essential libraries
 * Toolchain and Build System
 * Specifications and Documentation
 
