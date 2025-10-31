@@ -1,12 +1,18 @@
-## Hi there 👋
+# Welcome to !SHIRO
+You might want to check out The SHIRO Project!
 
-<!--
+## The SHIRO Project
+The SHIRO Project is an open source operating system aiming to be a modern, secure, and fast operating system.
 
-**Here are some ideas to get you started:**
+The SHIRO Project contains
+* SHIRO Kernel
+* KURO Bootloader
+* Userspace Applications and C standard library
+* Toolchain and Build System
+* Specifications and Documentation
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Each of these subprojects is independent and can be used on their own except for the Userspace Applications and C standard library.
+
+## Contributing
+We welcome contributions from the community! If you're interested in getting involved, please check out our
+contribution guidelines in each repository you're interested in.
