@@ -1,4 +1,4 @@
-![!SHIRO](../!SHIRO banner-01.png)
+![!SHIRO banner](banner.png)
 # Welcome to !SHIRO
 You might want to check out The SHIRO Project!
 
