@@ -1,4 +1,4 @@
-![!SHIRO banner](banner.png)
+![!SHIRO banner](https://raw.githubusercontent.com/TeamSHIRO/.github/refs/heads/main/profile/banner.png)
 # Welcome to !SHIRO
 You might want to check out The SHIRO Project!
 
