@@ -1,5 +1,5 @@
 <div style="height: 175px; overflow: hidden;">
-  <img src="banner.png" 
+  <img src="https://raw.githubusercontent.com/TeamSHIRO/.github/refs/heads/main/profile/banner.png" 
        alt="!SHIRO banner" 
        title="!SHIRO banner"
        style="width: 100%; height: 100%; object-fit: cover;">
