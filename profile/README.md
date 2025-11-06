@@ -1,4 +1,10 @@
-![!SHIRO banner](https://raw.githubusercontent.com/TeamSHIRO/.github/refs/heads/main/profile/banner.png)
+<div style="height: 175px; overflow: hidden;">
+  <img src="banner.png" 
+       alt="!SHIRO bannerr" 
+       title="!SHIRO banner"
+       style="width: 100%; height: 100%; object-fit: cover;">
+</div>
+
 # Welcome to !SHIRO
 You might want to check out The SHIRO Project!
 
